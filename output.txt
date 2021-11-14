@@ -1,0 +1,28 @@
+Script started on Sun Nov 14 14:39:36 2021
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ mkdir folder  1
+bash-3.2$ mkdir folder2
+bash-3.2$ touch file.txt
+bash-3.2$ touch file.2 txt          file2.txt
+bash-3.2$ touch file1.txt
+bash-3.2$ touch file3.txt
+bash-3.2$ mv file1.txt folder1
+bash-3.2$ mvfile2.       file2.txt folder2
+bash-3.2$ cd folder1
+bash-3.2$ ls 
+file1.txt
+bash-3.2$ pwd
+/Users/naiadan/Command-line-and-git-assesment/folder1
+bash-3.2$ r rm file3.txt            cd -
+/Users/naiadan/Command-line-and-git-assesment
+bash-3.2$ rm file3.txt
+bash-3.2$ rm fiole   le.txt
+bash-3.2$ ls
+README.md	folder1		folder2		output.txt
+bash-3.2$ exit
+exit
+
+Script done on Sun Nov 14 14:48:29 2021
